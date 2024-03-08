@@ -1,0 +1,5 @@
+youtube:
+https://www.youtube.com/watch?v=GiWJQOin5dk
+
+github:
+https://github.com/Ahmad528/shoppingsite/tree/main
